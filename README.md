@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LubeLogger is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://lubelogger.com/
+LubeLogger provides a self‑hosted, open‑source vehicle maintenance and fuel mileage tracking platform. It lets users log service records, track fuel consumption, set reminders, and view detailed analytics through a web interface. The solution is designed for enthusiasts and small fleets seeking a customizable, privacy‑focused alternative to commercial telematics services.
+
+**Areas:** Company · OpenSource · VehicleMaintenance · FuelTracking · SelfHosted
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lubelogger.com/)
+- [Documentation](https://docs.lubelogger.com/)
+- [Getting started](https://docs.lubelogger.com/Installation/Getting Started)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/lubelogger/](https://apis.io/providers/lubelogger/).
